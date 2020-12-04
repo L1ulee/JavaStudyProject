@@ -4,7 +4,7 @@
 
 ## 当前项目状态
 
-[![](https://img.shields.io/discord/778637533461348374?label=Firstwood&logo=Discord&logoColor=%23FF6EC7)](https://discord.gg/SXtgf3C85d) [![Open Isuues Count](https://img.shields.io/github/issues-raw/L1ulee/JavaStudyProject?label=Open%20issues)](https://github.com/L1ulee/JavaStudyProject/issues) [![License](https://img.shields.io/github/license/L1ulee/JavaStudyProject?label=License)](https://github.com/L1ulee/JavaStudyProject/blob/master/LICENSE) 
+[![](https://img.shields.io/discord/778637533461348374?label=Firstwood&logo=Discord&logoColor=%23FF6EC7)](https://discord.gg/SXtgf3C85d)[![Open Isuues Count](https://img.shields.io/github/issues-raw/L1ulee/JavaStudyProject?label=Open%20issues)](https://github.com/L1ulee/JavaStudyProject/issues)
 
 ## 一、Java基础
 
