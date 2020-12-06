@@ -5,6 +5,7 @@
 ## 当前项目状态
 
 [![Discord](https://img.shields.io/discord/778637533461348374?label=Firstwood&logo=Discord&logoColor=%23FF6EC7)](https://discord.gg/SXtgf3C85d)[![Open Isuues Count](https://img.shields.io/github/issues-raw/L1ulee/JavaStudyProject?label=Open%20issues)](https://github.com/L1ulee/JavaStudyProject/issues) [![License](https://img.shields.io/github/license/L1ulee/JavaStudyProject?label=License)](https://github.com/L1ulee/JavaStudyProject/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FL1ulee%2FJavaStudyProject.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FL1ulee%2FJavaStudyProject?ref=badge_shield)
 
 ## 一、Java基础
 
@@ -270,3 +271,7 @@ Java中标识符的命名约定：
 
 ​		例如：username、studentNumber等。
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FL1ulee%2FJavaStudyProject.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FL1ulee%2FJavaStudyProject?ref=badge_large)
